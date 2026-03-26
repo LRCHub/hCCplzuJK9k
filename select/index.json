@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "のんねむ逃避行",
+  "base_artist": "桃寝ちのい",
+  "createdAt": "2026-03-26T07:07:15.038087Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "のんねむ逃避行",
+      "artist": "桃寝ちのい",
+      "has_synced": false,
+      "path": "select/pl_01_のんねむ逃避行_桃寝ちのい.txt"
+    }
+  ]
+}
